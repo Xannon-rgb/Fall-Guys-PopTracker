@@ -1,1 +1,24 @@
-# Fall-Guys-PopTracker
+# Fall Guys Archipelago PopTracker
+
+A PopTracker checklist pack for the Fall Guys Archipelago randomizer.
+
+## Features
+- 79 location checks across Race, Survival, Points, Logic, Team, Finals, and Victory.
+- Progression items: Survivalist Crown, Points Crown, Logic Crown, Teamwork Crown.
+- Final Round Tickets and configurable ticket requirement.
+- Bold, high-contrast checklist labels and manual checking.
+- Archipelago auto-tracking scripts (live connection/slot-data behavior still needs verification).
+
+## Installation
+1. Download the latest ZIP from [Releases](https://github.com/Xannon-rgb/Fall-Guys-PopTracker/releases) once a release is published.
+2. Extract its contents into a subfolder of your PopTracker `packs` directory.
+3. Select **Fall Guys** in PopTracker.
+4. Use manually or connect through the AP option.
+
+## Current version
+**v1.0** — first public package based on the v1.0.10 test build.
+
+## Known limitations
+Archipelago connectivity and seed-specific Final Round Ticket requirements still require live verification. Please report any reproducible issues in the Issues tab.
+
+This is a fan-made community tracker and is not affiliated with Fall Guys or Mediatonic.
