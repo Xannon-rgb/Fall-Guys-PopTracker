@@ -17,8 +17,3 @@ A PopTracker checklist pack for the Fall Guys Archipelago randomizer.
 
 ## Current version
 **v1.0** — first public package based on the v1.0.10 test build.
-
-## Known limitations
-Archipelago connectivity and seed-specific Final Round Ticket requirements still require live verification. Please report any reproducible issues in the Issues tab.
-
-This is a fan-made community tracker and is not affiliated with Fall Guys or Mediatonic.
