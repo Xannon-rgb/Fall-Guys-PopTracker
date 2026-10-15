@@ -1,3 +1,14 @@
 {
-  "versions": []
+  "versions": [
+    {
+      "package_version": "1.1.1",
+      "download_url": "https://github.com/Xannon-rgb/Fall-Guys-PopTracker/releases/download/v1.1.1/Fall-Guys-PopTracker-v1.1.1.zip",
+      "sha256": "d55823b5f6ef07374e1649f7de0e37d4fe5075c32de6313c5f3f8be9b2185927",
+      "changelog": [
+        "Added Progressive Qualify Cap tracking (0–18)",
+        "Fixed off-by-one ticket and cap counters",
+        "Added PopTracker automatic-update feed"
+      ]
+    }
+  ]
 }
