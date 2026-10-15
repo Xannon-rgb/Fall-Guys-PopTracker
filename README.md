@@ -16,4 +16,7 @@ A PopTracker checklist pack for the Fall Guys Archipelago randomizer.
 4. Use manually or connect through the AP option.
 
 ## Current version
-**v1.0** — first public package based on the v1.0.10 test build.
+**v1.1.1** — Progressive Qualify Cap (0–18), ticket counter off-by-one fix, and automatic-update feed configuration.
+
+## Automatic updates
+The v1.1.1 pack includes a `versions_url` pointing to [`versions.json`](./versions.json). The update feed is initialized but will remain empty until the release ZIP is published at a working download URL. GitHub does not automatically update the feed when you publish a release; the feed must be updated with the published ZIP URL and SHA-256 checksum.
