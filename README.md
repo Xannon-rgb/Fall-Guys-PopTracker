@@ -7,7 +7,7 @@ A PopTracker checklist pack for the Fall Guys Archipelago randomizer.
 - Progression items: Survivalist Crown, Points Crown, Logic Crown, Teamwork Crown.
 - Final Round Tickets and configurable ticket requirement.
 - Bold, high-contrast checklist labels and manual checking.
-- Archipelago auto-tracking scripts (live connection/slot-data behavior still needs verification).
+- Archipelago auto-tracking scripts.
 
 ## Installation
 1. Download the latest ZIP from [Releases](https://github.com/Xannon-rgb/Fall-Guys-PopTracker/releases) once a release is published.
@@ -18,5 +18,3 @@ A PopTracker checklist pack for the Fall Guys Archipelago randomizer.
 ## Current version
 **v1.1.1** — Progressive Qualify Cap (0–18), ticket counter off-by-one fix, and automatic-update feed configuration.
 
-## Automatic updates
-The v1.1.1 pack includes a `versions_url` pointing to [`versions.json`](./versions.json). The update feed is initialized but will remain empty until the release ZIP is published at a working download URL. GitHub does not automatically update the feed when you publish a release; the feed must be updated with the published ZIP URL and SHA-256 checksum.
